@@ -1,0 +1,54 @@
+---
+layout: default
+title: Support — MergeLine
+permalink: /support/
+---
+
+# MergeLine Support
+
+Questions, bug reports, and feedback are welcome.
+
+## Contact
+
+Email: **tolgasyn2@gmail.com**
+
+Response time is usually within 48 hours. Please include the following in bug reports so we can help you faster:
+
+- iPhone model (for example, iPhone 15 Pro)
+- iOS version (Settings → General → About → iOS Version)
+- MergeLine version and build number (visible on the main menu footer)
+- A short description of what you were doing when the issue happened
+
+## Frequently Asked Questions
+
+### The game crashed. What should I do?
+
+Force-quit the app (swipe up and flick MergeLine off-screen), then relaunch. Your progress is saved locally after every game-over — no data is lost. If crashes keep happening, email us with the details above.
+
+### Ads are not loading.
+
+Ads require an internet connection. The BOMB and CONTINUE buttons use rewarded video ads — if the ad network has nothing to serve, these buttons stay disabled and you can keep playing the normal loop. This is not a bug.
+
+### I want to opt out of personalized ads.
+
+On first launch, iOS asks whether to allow tracking. Tap "Ask App Not to Track" for non-personalized ads. You can change this later in Settings → MergeLine → Allow Tracking.
+
+### The Daily Challenge shows the same puzzle as yesterday.
+
+The Daily Challenge rolls over at midnight UTC. Depending on your timezone, the change may not happen at your local midnight. For Turkey (UTC+3), the new Daily arrives at 03:00 local time.
+
+### I lost progress after updating the app.
+
+Progress is stored in the app sandbox and survives updates. If you deleted and reinstalled the app, local progress is cleared by iOS — this is expected behavior, not a bug.
+
+### How do I reset my stats?
+
+There is no in-app reset button by design. Deleting and reinstalling the app clears all local data including best tile, lifetime score, and games played.
+
+## Privacy
+
+See our [Privacy Policy]({{ "/privacy-policy/" | relative_url }}) for details on what data MergeLine collects and how it is used.
+
+## Version
+
+MergeLine is published by Tolga Sayan. Source code is private; this support site is public and hosted on GitHub Pages.
